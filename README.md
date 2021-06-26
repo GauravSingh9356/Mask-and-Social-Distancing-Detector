@@ -3,11 +3,10 @@
 
 <h2> Motivation<span style='font-size:100px;'>&#127775;</span></h2>	
 <p>
-Social distancing is a method used to control the spread of contagious diseases. It implies that people physically distance themselves from one another, reducing close contact, and thereby reducing the spread of a contagious disease (such as the COVID-19 Disease). Social distancing is not a new concept, dating back to the fifth century, and has even been referenced in religious text.
+Wearing Mask and Social distancing are the methods used to control the spread of contagious diseases. It implies that people physically distance themselves from one another, reducing close contact, and thereby reducing the spread of a contagious disease (such as the COVID-19 Disease).
 Can AI be used to prevent the covid spread?. We have implemented Real time Mask Detection on image as well as on real time video. Also we have implemented Social Distancing Detection on images as well as real time videos. We have intregated both with common GUI made with tkinter.
 </p>
 
-> And the leper in whom the plague is … he shall dwell alone; [outside] the camp shall his habitation be. — Leviticus 13:46
 
 
 <h1 align="left">
