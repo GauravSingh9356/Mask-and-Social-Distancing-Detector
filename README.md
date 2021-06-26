@@ -39,7 +39,7 @@ A social distancing detector built with OpenCV using YOLO(COCO model) object det
 
 
 <p align="center">
-  <img src="social_distance_detection/res/social_distance_detector_spread.gif">
+  <img src="social_distancing_detector/res/social_distance_detector_spread.gif">
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Add the weight file to the yolo-coco folder.
 Provided you already have OpenCV installed with NVIDIA GPU support, all you need to do is set ```USE_GPU=True``` in your ```config.py``` file.
 
 ## Demo :movie_camera:
-![raw-vid](res/demo0.gif "Unprocessed video") ![processed-vid](res/demo1.gif "Processed video")
+![raw-vid](res/demo0.gif "Unprocessed video") ![processed-vid](social_distancing_detector/res/demo1.gif "Processed video")
 
 
 
