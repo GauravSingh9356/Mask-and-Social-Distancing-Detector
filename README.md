@@ -14,6 +14,22 @@ Can AI be used to prevent the covid spread?. We have implemented Real time Mask 
 </h1>
 
 
+Face Mask Detection with CNN model using tensorflow, OpenCV
+
+## About
+
+<ul>
+  <li>Network used : Convolutional Network</li>
+  <li>Framework used : Tensorflow</li>
+  <li>API used : Keras</li>
+  <li>Computer Vision library used : openCV</li>
+</ul>
+
+### Detecting face mask with accuracy with real time video
+
+<img src="https://github.com/GauravSingh9356/Computer-Vision/blob/master/Face%20Mask%20Detection/ezgif.com-gif-maker%20(5).gif">
+
+
 
 <h1 align="left">
     Social Distancing Detector
@@ -23,7 +39,7 @@ A social distancing detector built with OpenCV using YOLO(COCO model) object det
 
 
 <p align="center">
-  <img src="res/social_distance_detector_spread.gif">
+  <img src="social_distance_detection/res/social_distance_detector_spread.gif">
 </p>
 
 <p align="center">
