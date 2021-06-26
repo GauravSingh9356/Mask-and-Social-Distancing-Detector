@@ -25,25 +25,7 @@ Social distancing is a method used to control the spread of contagious diseases.
 * Based on the computed distances, we determine whether social distancing rule is being violated or not.
 
 
-## Installation :package:
 
-1. Clone the repo
-
-```bash
-   $ git clone https://github.com/aibenStunner/social-distancing-detector.git
-   $ cd social-distancing-detector
-```
-
-2. Install dependencies
-
-```bash
-   $ pip install -r requirements.txt
-```
-
-3. Run the main social distancing detector file. (set display to 1 if you want to see output video as processing occurs)
-```bash
-   $ python social_distancing_detector.py --input pedestrians.mp4 --output output.avi --display 0
-```
 
 ## Usage :computer:
 * Caution :bomb:\
@@ -63,30 +45,11 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 ## Demo :movie_camera:
 ![raw-vid](res/demo0.gif "Unprocessed video") ![processed-vid](res/demo1.gif "Processed video")
 
-## Contributing :gift: [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
 
-## Want to talk more??
+- Email - gs935688@gmail.com :e-mail:
+- Let's connect on <a href="https://www.linkedin.com/in/gauravsingh9356/">LinkedIn.</a> :pushpin:
 
-If you are interested in helping or have something to suggest or just want to chat with me, you can reach me through the following media .
 
-- Email - ebenezergadri99@gmail.com :e-mail:
-- Let's connect on <a href="https://www.linkedin.com/in/thegadri/">LinkedIn.</a> :pushpin:
-- I'm on <a href="https://www.hackerrank.com/aiben_">HackerRank</a> too.:relaxed:
 
-## References :book:
-* <a href="https://en.wikipedia.org/wiki/Social_distancing">Social Distancing</a>
-* <a href="https://www.reddit.com/r/computervision/comments/gf4zhj/automatic_social_distance_measurement/">Automatic social distance measurement</a>
-* <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6661455400346492928/">Rohit Kumar Srivastava’s social distancing implementation</a>
-* <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655464103798157312/">Venkatagiri Ramesh’s social distancing project</a>
 
-## Todos :pencil:
-* Utilize proper camera calibration.
-* Apply top-down transformation of view angle.
-* Improve the poeple detection process.
-
-## License :key:
-
-MIT &copy; Gadri Ebenezer
