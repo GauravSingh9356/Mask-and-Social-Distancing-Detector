@@ -7,6 +7,8 @@ Wearing Mask and Social distancing are the methods used to control the spread of
 Can AI be used to prevent the covid spread?. We have implemented Real time Mask Detection on image as well as on real time video. Also we have implemented Social Distancing Detection on images as well as real time videos. We have intregated both with common GUI made with tkinter.
 </p>
 
+<img src="https://github.com/GauravSingh9356/Mask-and-Social-Distancing-Detector/blob/master/img4.jpg"/>
+
 
 
 <h1 align="left">
